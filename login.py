@@ -1,0 +1,1 @@
+u=input('enter username')

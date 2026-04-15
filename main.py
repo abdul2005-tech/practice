@@ -1,2 +1,1 @@
-print('error nahi haigit add .' \
-'')
+print('hellow world')
